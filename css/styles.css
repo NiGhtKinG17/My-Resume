@@ -1,0 +1,78 @@
+p {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+li {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+tr {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+}
+
+.top {
+  background-color: #ACFFAD
+}
+
+.contact {
+  margin-left: 4rem;
+  padding-bottom: 1rem;
+}
+
+.table-contact {
+  width: 15rem;
+}
+
+.myname {
+  font-family: 'Lora', serif;
+  display: inline-block;
+  font-size: 5rem;
+  margin-top: 2rem;
+  margin-left: 3rem;
+}
+
+.prof {
+  display: inline-block;
+  margin-left: rem;
+  padding-bottom: 2rem;
+}
+
+.myimg {
+  border-radius: 0.3rem;
+  width: 16rem;
+  position: absolute;
+  right: 2rem;
+  top: 2rem;
+}
+
+.summary {
+  margin-left:3rem;
+  margin-top: 3rem;
+}
+
+.education {
+  margin-left:3rem;
+  margin-top: 3rem;
+  margin-right: 3rem;
+}
+
+.skills {
+  margin-left:3rem;
+  margin-top: 3rem;
+}
+
+.certificates {
+  margin-left:3rem;
+  margin-top: 3rem;
+}
+
+.enclosure {
+  background-color: #ACFFAD;
+  text-align: center;
+  margin-bottom: 0;
+  font-family: 'Lora', serif;
+}
