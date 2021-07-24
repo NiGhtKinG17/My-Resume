@@ -15,7 +15,7 @@ h1 {
 }
 
 .top {
-  background-color: #A2DBFA
+  background-color: #88FFF7
 }
 
 .contact {
@@ -71,8 +71,10 @@ h1 {
 }
 
 .enclosure {
-  background-color: #A2DBFA;
+  background-color: #88FFF7;
   text-align: center;
   margin-bottom: 0;
   font-family: 'Lora', serif;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
