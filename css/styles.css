@@ -52,17 +52,22 @@ h1 {
 .summary {
   margin-left:3rem;
   margin-top: 3rem;
+  margin-right: 3rem;
+  border-bottom: solid 1px;
 }
 
 .education {
   margin-left:3rem;
   margin-top: 3rem;
   margin-right: 3rem;
+  border-bottom: solid 1px;
 }
 
 .skills {
   margin-left:3rem;
   margin-top: 3rem;
+  margin-right: 3rem;
+  border-bottom: solid 1px;
 }
 
 .certificates {
